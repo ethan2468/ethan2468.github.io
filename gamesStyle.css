@@ -52,7 +52,7 @@ header {
   text-decoration: none;
   letter-spacing: .15em;
   text-transform: uppercase;
-  color: #000000;
+  color: #010782;
   -webkit-transition: color .3s;
   transition: color .3s;
 	font-weight: bold;
@@ -61,7 +61,7 @@ header {
 
 .site-nav ul li a:hover {
   outline: none;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #010782;
 }
 
 
